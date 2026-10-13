@@ -1,0 +1,22 @@
+# Bytecode e caches do Python
+__pycache__/
+*.py[cod]
+
+# Testes e cobertura
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Checagem de tipos
+.mypy_cache/
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Notebooks e editores
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
